@@ -1,0 +1,3 @@
+﻿  hicks-cop3330-ch4-ex7.cpp
+E:\UCF\Object Oriented Programming\assignment c++\hicks-cop3330-ch4-ex7\hicks-cop3330-ch4-ex7\hicks-cop3330-ch4-ex7.cpp(25,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hicks-cop3330-ch4-ex7.vcxproj -> E:\UCF\Object Oriented Programming\assignment c++\hicks-cop3330-ch4-ex7\x64\Debug\hicks-cop3330-ch4-ex7.exe
